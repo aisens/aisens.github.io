@@ -6,9 +6,9 @@ permalink: /photo/
 
 My lovely Captain Dill
 
-![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160621_182353.jpg?raw=true)
+![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160619_145749.jpg?raw=true)
 
 
 Almaty Great mountains
 
-![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160621_182353.jpg)
+![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160621_182353.jpg?raw=true)
