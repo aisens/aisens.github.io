@@ -11,4 +11,4 @@ My lovely Captain Dill
 
 Almaty Great mountains
 
-![_config.yml]({{ site.baseurl }}/images/IMG_20160621_182353.jpg)
+![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160621_182353.jpg)
