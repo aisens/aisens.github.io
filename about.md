@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Aisulu. 
+I am student of NIS PM in Kokshetau. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hobbies: drawing, playing guitar, sculpturing and writting stories sometimes.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ealessa@outlook.com](mailto:ealessa@outlook.com)
