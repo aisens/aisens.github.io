@@ -6,6 +6,8 @@ title: Developers
 ![_config.yml]({{ site.baseurl }}/images/Software_developers_working_computer_thumb800.jpg)
 
 
+
+
 Developers:
 
 A producer organizes work of all team. He is a manager, a provider. Thanks to this developer all members of the team orderly. He also makes everyone's work more efficient.
