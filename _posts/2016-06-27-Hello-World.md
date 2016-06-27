@@ -4,6 +4,12 @@ title: SHADOW FIGHT 2
 ---
 ![_config.yml]({{ site.baseurl }}/images/shadow-fight2-banner.jpg)
 
+
+
+
+
+
+
 Rules: "Shadow Fight 2 starts off with two buttons that are used in combat: the kick and the punch button. Eventually, the Ranged Weapons and Magic buttons will become available for use.
 There is a total of 7 Acts in Shadow Fight 2. Each act has a Demon Boss to defeat before moving on to the next act. The demons are Lynx, Hermit, Butcher, Wasp, Widow,Shogun and Titan respectively. Each demon has five bodyguards (in case of Shogun, there is an addition of 5 mercenaries). In order to defeat demons, the player has to defeat him/her in 3 rounds instead of the usual 2 rounds." http://shadowfight.wikia.com/wiki/Story_(SF2)
 
