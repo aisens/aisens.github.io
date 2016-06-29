@@ -123,11 +123,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $black;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $Blue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
