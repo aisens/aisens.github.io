@@ -6,7 +6,7 @@ permalink: /photo/
 
 PixArt
 
-![_config.yml]({{ site.baseurl }}/images/IMG_20160624_153459-01.jpeg)
+![_config.yml](https://github.com/aisens/aisens.github.io/blob/master/images/IMG_20160624_153459-01.jpeg?raw=true)
 
 
 My lovely Captain Dill
