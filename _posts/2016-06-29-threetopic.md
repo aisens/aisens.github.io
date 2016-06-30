@@ -3,7 +3,7 @@ layout: post
 title: Three most interesting things you should look at
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Снимuок.PNG)
+![_config.yml]({{ site.baseurl }}/images/ai4-horz.jpg)
 
  Blogging with Jekyl
  
